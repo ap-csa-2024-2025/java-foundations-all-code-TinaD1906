@@ -1,0 +1,518 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddImport",
+            "request": "launch",
+            "mainClass": "AddImport",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "AgeCheck",
+            "request": "launch",
+            "mainClass": "AgeCheck",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "AgeValidity",
+            "request": "launch",
+            "mainClass": "AgeValidity",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx1",
+            "request": "launch",
+            "mainClass": "ArrayEx1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx2",
+            "request": "launch",
+            "mainClass": "ArrayEx2",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListEx1",
+            "request": "launch",
+            "mainClass": "ArrayListEx1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListEx2",
+            "request": "launch",
+            "mainClass": "ArrayListEx2",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "BoundaryTesting",
+            "request": "launch",
+            "mainClass": "BoundaryTesting",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest2",
+            "request": "launch",
+            "mainClass": "CalculatorTest2",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest3",
+            "request": "launch",
+            "mainClass": "CalculatorTest3",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorTest4",
+            "request": "launch",
+            "mainClass": "CalculatorTest4",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Casting01",
+            "request": "launch",
+            "mainClass": "Casting01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Casting02",
+            "request": "launch",
+            "mainClass": "Casting02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Chickens01",
+            "request": "launch",
+            "mainClass": "Chickens01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Chickens02",
+            "request": "launch",
+            "mainClass": "Chickens02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ChkOddEven",
+            "request": "launch",
+            "mainClass": "ChkOddEven",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ColorRange",
+            "request": "launch",
+            "mainClass": "ColorRange",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAvg",
+            "request": "launch",
+            "mainClass": "ComputeAvg",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ComputeBMI",
+            "request": "launch",
+            "mainClass": "ComputeBMI",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ComputeFare",
+            "request": "launch",
+            "mainClass": "ComputeFare",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ComputeSum",
+            "request": "launch",
+            "mainClass": "ComputeSum",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ComputeTime",
+            "request": "launch",
+            "mainClass": "ComputeTime",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "CountChar",
+            "request": "launch",
+            "mainClass": "CountChar",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Countdown",
+            "request": "launch",
+            "mainClass": "Countdown",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "DisplayMultiples",
+            "request": "launch",
+            "mainClass": "DisplayMultiples",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Divisors",
+            "request": "launch",
+            "mainClass": "Divisors",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionEx1",
+            "request": "launch",
+            "mainClass": "ExceptionEx1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "FlipCoin",
+            "request": "launch",
+            "mainClass": "FlipCoin",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "GoalTest_Student_9_3",
+            "request": "launch",
+            "mainClass": "GoalTestStudent.GoalTest_Student_9_3",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteLoop",
+            "request": "launch",
+            "mainClass": "InfiniteLoop",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Input01",
+            "request": "launch",
+            "mainClass": "Input01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Input02",
+            "request": "launch",
+            "mainClass": "Input02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Input03",
+            "request": "launch",
+            "mainClass": "Input03",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Input04",
+            "request": "launch",
+            "mainClass": "Input04",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "JavaFXMain",
+            "request": "launch",
+            "mainClass": "JavaFXMain",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "JavaFXMainEx1",
+            "request": "launch",
+            "mainClass": "JavaFXMainEx1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "JavaLibsPractice",
+            "request": "launch",
+            "mainClass": "JavaLibsPractice",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "LoopShapeTest",
+            "request": "launch",
+            "mainClass": "LoopShapeTest",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "MaxIntegers",
+            "request": "launch",
+            "mainClass": "MaxIntegers",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "NameMaker",
+            "request": "launch",
+            "mainClass": "NameMaker",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Parsing01",
+            "request": "launch",
+            "mainClass": "Parsing01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "PrisonTest_Student_7_3",
+            "request": "launch",
+            "mainClass": "PrisonTest_Student_7_3",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "PrisonTest_Student_7_4",
+            "request": "launch",
+            "mainClass": "PrisonTest_Student_7_4",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "PrisonTest_Student_7_5",
+            "request": "launch",
+            "mainClass": "PrisonTest_Student_7_5",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "PrisonTest_Student_7_6",
+            "request": "launch",
+            "mainClass": "PrisonTest_Student_7_6",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ProblemSet2_1",
+            "request": "launch",
+            "mainClass": "ProblemSet2_1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ProblemSet2_2",
+            "request": "launch",
+            "mainClass": "ProblemSet2_2",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ProcessName",
+            "request": "launch",
+            "mainClass": "ProcessName",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissor",
+            "request": "launch",
+            "mainClass": "RockPaperScissor",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ScopeTest",
+            "request": "launch",
+            "mainClass": "ScopeTest",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingCart",
+            "request": "launch",
+            "mainClass": "ShoppingCart",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingCart01",
+            "request": "launch",
+            "mainClass": "ShoppingCart01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingCart02",
+            "request": "launch",
+            "mainClass": "ShoppingCart02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootWhile",
+            "request": "launch",
+            "mainClass": "SquareRootWhile",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "SumofNums",
+            "request": "launch",
+            "mainClass": "SumofNums",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "SwitchEx1",
+            "request": "launch",
+            "mainClass": "SwitchEx1",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "SwitchEx2",
+            "request": "launch",
+            "mainClass": "SwitchEx2",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "TestClass",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Text01",
+            "request": "launch",
+            "mainClass": "Text01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Text02",
+            "request": "launch",
+            "mainClass": "Text02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Text03",
+            "request": "launch",
+            "mainClass": "Text03",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Tip01",
+            "request": "launch",
+            "mainClass": "Tip01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "TrafficLightChecker",
+            "request": "launch",
+            "mainClass": "TrafficLightChecker",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "TrafficLightSwitch",
+            "request": "launch",
+            "mainClass": "TrafficLightSwitch",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "ValidatePin",
+            "request": "launch",
+            "mainClass": "ValidatePin",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Variables01",
+            "request": "launch",
+            "mainClass": "Variables01",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Variables02",
+            "request": "launch",
+            "mainClass": "Variables02",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "Variables03",
+            "request": "launch",
+            "mainClass": "Variables03",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        },
+        {
+            "type": "java",
+            "name": "WatchMovie",
+            "request": "launch",
+            "mainClass": "WatchMovie",
+            "projectName": "java-foundations-all-code-TinaD1906_744334ec"
+        }
+    ]
+}
