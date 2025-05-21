@@ -30,9 +30,21 @@ public class HelloWorld {
 
         int eggsPerChicken = 5;
         int chickenCount = 3;
+        int eggsPerDay = 0;
+
+        //Monday
+        eggsPerDay = eggsPerChicken*chickenCount;
+        System.out.println(eggsPerDay)
+
+        //Tuesday
+        chickenCount = ++chickenCount;
 
 
-        //monday 
+        //Wednesday
+        chickenCount = chickenCount/2
+
+        
+
         
 
     }
